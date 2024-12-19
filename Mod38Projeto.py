@@ -73,7 +73,7 @@ def evaluate_model(model, X, y):
 
 def main():
 
-    st.markdown("<h1 style='text-align: center; color: grey;'>:bank: Aplicação para modelagem de Credit Scoring </h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: grey;'> Aplicação para modelagem de Credit Scoring </h1>", unsafe_allow_html=True)
 
     # st.title(":bank: Aplicação para modelagem de Credit Scoring")
     
