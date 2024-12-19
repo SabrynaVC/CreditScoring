@@ -1,0 +1,12 @@
+pandas
+plotly
+streamlit
+yfinance
+pandas-datareader
+prophet
+seaborn
+numpy   
+pickle
+matplotlib
+pycaret
+sklearn
