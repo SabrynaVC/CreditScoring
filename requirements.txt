@@ -5,6 +5,6 @@ seaborn
 numpy   
 matplotlib
 pycaret
-sklearn
+scikit-learn
 matplotlib
 scipy
