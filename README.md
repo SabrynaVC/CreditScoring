@@ -18,6 +18,10 @@ Usando esse dataset, a aplicação vai:
 - Mostrar os resultados da previsão 🔮
 - Calcular os níveis de Acurácia do modelo 💎
 
+### Banco de dados usado:
+
+[Banco de dados online no GitHub](https://github.com/SabrynaVC/CreditScoring/blob/main/credit_scoring.csv)
+
 ### Funcionamento da aplicação:
 
 https://github.com/user-attachments/assets/05aa670c-0b68-4928-a772-836be9d02d0f
