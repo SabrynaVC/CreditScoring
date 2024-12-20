@@ -12,12 +12,12 @@ O objetivo da aplicação será receber um arquivo em formato .csv que contem as
 ### Passo a passo da aplicação:
 
 Usando esse dataset, a aplicação vai:
-- Mostrar um sample dos dados
-- Preparar os dados para modelagem
-- Resgatar um modelo já treinado do Pycaret e aplicar no dataset
-- Mostrar os resultados da previsão
-- Calcular os níveis de Acurácia do modelo
+- Mostrar um sample dos dados 🔎
+- Preparar os dados para modelagem ✏️
+- Resgatar um modelo já treinado do Pycaret e aplicar no dataset 🔄
+- Mostrar os resultados da previsão 🔮
+- Calcular os níveis de Acurácia do modelo 💎
 
 ### Funcionamento da aplicação:
 
-<vídeo>
+https://github.com/SabrynaVC/CreditScoring/blob/main/Streamlit_Mod38Projeto.avi
