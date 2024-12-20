@@ -20,7 +20,7 @@ Usando esse dataset, a aplicação vai:
 
 ### Banco de dados usado para desenvolvimento:
 
-[Dataset disponível no GitHub](https://github.com/SabrynaVC/CreditScoring/blob/main/credit_scoring.csv)
+[Dataset disponível para download no GitHub](https://github.com/SabrynaVC/CreditScoring/blob/main/credit_scoring.csv)
 
 ### Funcionamento da aplicação:
 
