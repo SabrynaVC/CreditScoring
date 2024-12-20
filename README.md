@@ -20,4 +20,7 @@ Usando esse dataset, a aplicação vai:
 
 ### Funcionamento da aplicação:
 
-https://github.com/SabrynaVC/CreditScoring/blob/main/Streamlit_Mod38Projeto.avi
+https://github.com/SabrynaVC/CreditScoring/raw/refs/heads/main/Streamlit_Mod38Projeto.mov
+
+<video src='[your URL here](https://github.com/SabrynaVC/CreditScoring/raw/refs/heads/main/Streamlit_Mod38Projeto.mov)' width=180/>
+
